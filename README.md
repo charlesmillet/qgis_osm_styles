@@ -1,2 +1,2 @@
-# qgis_osm_styles
+# Styles QGIS pour les données OpenStreetMap
 Styles QGIS for OSM data
