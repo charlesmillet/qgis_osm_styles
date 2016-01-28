@@ -1,5 +1,5 @@
 # Styles QGIS pour les données OpenStreetMap
-Les styles sont à utiliser dans le logiciel QGIS sur des données OpenStreetMap téléchargées soit directement depuis QGIS soit téléchargées au format PBF et converties avec ogr2ogr (avec la configuration ogr2gor par défaut).
+Les styles sont à utiliser dans le logiciel QGIS sur des données OpenStreetMap. Les données OSM doivent contenir des champs définis sur la base des tags des entités ; le choix des champs retenus est géré grâce à la configuration du pilote OGR à l'aide du fichier osmconf.ini
 
 Ces Styles ne peuvent probablement pas s'appliquer au données shapefile récupérées sur GeoFabrik.
 
