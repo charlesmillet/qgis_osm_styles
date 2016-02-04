@@ -11,3 +11,5 @@ N'hésitez pas à faire savoir quelles clés suplémentaire vous semblent import
 Attention, les styles proposés ne peuvent probablement pas s'appliquer aux données shapefile récupérées sur GeoFabrik. De même, les styles proposés par d'autres ne fonctionneront probablement plus du fait de la disparition d'informations dans le champ *other_tag*. Penser donc à sauvegarder la version originale de votre fichier _osmconf.ini_.
 
 Pour récupérer les styles pensez à utiliser le bouton Download ZIP situé à droite.
+
+In case of problems with labeling, there is a workaround here : https://hub.qgis.org/issues/13667
